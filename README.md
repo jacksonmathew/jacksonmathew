@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacksonmathew
 - 👀 I’m interested in Blockchain Development , Ethereum
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Blockchain Development (ETHEREUM, SOLIDITY, JavaScript, HTML-CSS)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jackson0mathew@gmail.com
 
