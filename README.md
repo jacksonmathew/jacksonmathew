@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jacksonmathew
 - 👀 I’m interested in Blockchain Development , Ethereum
 - 🌱 I’m currently learning Blockchain Development (ETHEREUM, SOLIDITY, JavaScript, HTML-CSS)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jackson0mathew@gmail.com
+- 📫 jackson0mathew@gmail.com
 
 <!---
 jacksonmathew/jacksonmathew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
